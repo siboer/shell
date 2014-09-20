@@ -1,0 +1,10 @@
+There are a few programs that are the real workhorse in the UNIX
+toolbox. These programs are simple to use for simple applications, yet
+have a rich set of commands for performing complex actions. Don't let
+the complex potential of a program keep you from making use of the
+simpler aspects. I'll start with the simple concepts and introduce the
+advanced topics later on.
+When I first wrote this, most versions of sed did not allow you to
+place comments inside the script. Lines starting with the '#'
+characters are comments. Newer versions of sed may support comments at
+the end of the line as well.
