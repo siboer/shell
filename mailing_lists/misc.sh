@@ -5,3 +5,5 @@ command cd "$@"
 x=$(pwd)
 PS1="${x##*/}\$ "
 }
+
+echo $PROGRAM $VERSION
