@@ -1,5 +1,5 @@
 There are a few programs that are the real workhorse in the UNIX
-toolbox. These programs are simple to use for simple applications, yet
+toolbox. These programs are simple to use for simple applications, yet very long line more than 80
 have a rich set of commands for performing complex actions. Don't let
 the complex potential of a program keep you from making use of the
 simpler aspects. I'll start with the simple concepts and introduce the
